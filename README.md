@@ -1,4 +1,4 @@
-[Read in English](https://github.com/DanRebelato/MS-Excel-Campanhas/blob/main/README-EN.md)
+[Read in English](https://github.com/DanRebelato/MS_Excel-Faturamento/blob/main/README-EN)
 
 # 📊 Relatório de performance de campanhas de marketing em e-commerce – MS Excel
 
