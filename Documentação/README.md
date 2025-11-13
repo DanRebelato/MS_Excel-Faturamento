@@ -6,7 +6,7 @@ Este repositório contém o relatório desenvolvido, além de imagens de pré-vi
 
 ## 🖼 Prévia do Relatório
 
-![Dashboard Principal](https://github.com/DanRebelato/MS-Excel-Campanhas/blob/main/Documentacao/Campanhas.png)
+![Dashboard Principal](https://github.com/DanRebelato/MS_Excel-Faturamento/blob/main/Documenta%C3%A7%C3%A3o/Faturamento.png)
 
 
 
