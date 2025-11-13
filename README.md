@@ -18,7 +18,7 @@ O design reproduz a experiência de um painel do Power BI, utilizando apenas rec
 
 A base foi construída a partir de um processo ETL envolvendo:
 
-Linx: Relatórios customizados de faturamento;
+Linx: Relatórios customizados de faturamento;   
 TOTVS Protheus: Produtos, categorias e clientes.
 
 ## 🛠️ Ferramentas e Tecnologias
