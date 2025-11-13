@@ -2,7 +2,7 @@
 
 # 📊 Relatório de performance de campanhas de marketing em e-commerce – MS Excel
 
-Dashboard em Excel desenvolvido para analisar o faturamento das vendas no site de um e-commerce de eletrônicos.
+Dashboard em Excel desenvolvido para analisar o faturamento das vendas no site de um e-commerce de eletrônicos.   
 Criado como alternativa ao Power BI, o relatório permite fácil manejo com uma interface interativa diretamente no Excel.
 
 
