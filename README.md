@@ -8,7 +8,7 @@ Criado como alternativa ao Power BI, o relatório permite fácil manejo com uma 
 
 ## 🧩 Sobre o Projeto
 
-O objetivo é consolidar indicadores de faturamento, pedidos e ticket médio, oferecendo uma visão clara do desempenho comercial do site.  
+O objetivo é consolidar indicadores de faturamento, pedidos e ticket médio, oferecendo uma visão clara do desempenho comercial do site.   
 O design reproduz a experiência de um painel do Power BI, utilizando apenas recursos nativos do Excel.
 
 
@@ -33,7 +33,7 @@ TOTVS Protheus: Produtos, categorias e clientes.
 
 ## 📁 Estrutura dos Dados
 
-- [Campanhas.xlsx](https://github.com/DanRebelato/MS-Excel-Campanhas/blob/main/Documentacao/Campanhas.xlsm)
+- [Faturamento.xlsx](https://github.com/DanRebelato/MS_Excel-Faturamento/blob/main/Documenta%C3%A7%C3%A3o/Faturamento%202024-25.xlsb)
 
 ## 💡 Principais Insights
 
